@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### I'm a Data Analytics @ [Itaú](https://www.itau.com.br/).
+### I'm a Data Engineer @ [Itaú](https://www.itau.com.br/).
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
